@@ -1,0 +1,10 @@
+
+{
+  "name": "dockaless-examples",
+  "description": "Combining Docker and Serverless",
+  "memory": 128,
+  "timeout": 300,
+  "role": "arn:aws:iam::858656307604:role/lambda_basic_execution",
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
